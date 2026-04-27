@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "mhutchie.git-graph",
+        "eamodio.gitlens",
+        "ms-vscode.cpptools",
+        "ms-vscode.cpptools-themes"
+    ]
+}
